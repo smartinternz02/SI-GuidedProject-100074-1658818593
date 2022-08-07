@@ -1,0 +1,31 @@
+{
+        "input_data": [
+                {
+                        "fields": [
+                                "AVGHEARTBEATSPERMIN",
+                                "PALPITATIONSPERDAY",
+                                "CHOLESTEROL",
+                                "BMI",
+                                "AGE",
+                                "SEX",
+                                "FAMILYHISTORY",
+                                "SMOKERLAST5YRS",
+                                "EXERCISEMINPERWEEK"
+                        ],
+                        "values": [
+                                [
+                                        101,
+                                        50,
+                                        56,
+                                        25,
+                                        30,
+                                        "F",
+                                        "N",
+                                        "N",
+                                        102
+                                ]
+                        ]
+                }
+        ]
+}
+
